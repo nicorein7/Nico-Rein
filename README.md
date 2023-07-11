@@ -1,3 +1,10 @@
-# Nico-Rein
+patatas = 5
+tomates = 3
+naranjas = 7
 
-Git Hub de Nico
+productos = [patatas, tomates, naranjas]
+print (productos)
+
+total = 0
+for producto in productos : total += producto
+productos.
